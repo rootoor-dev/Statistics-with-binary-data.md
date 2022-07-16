@@ -4,7 +4,7 @@ Classical Statistics methods can be used usefully and easily with binary, dummy,
 
 # Dummy or binary or fingerprint data
 
-**Dummy variable** x is a variable that holds only one of the two values which are **0** and **1**.
+**A dummy variable** ***(x)*** is a variable that holds only one of the two values which are **0** and **1**.
 
 Since all the xi are equal to 0 or 1, summing them all the observations together is the same as counting the number xi that equal to 1. The following formula for the sample mean reveals it is equal to the sample proportion
 
