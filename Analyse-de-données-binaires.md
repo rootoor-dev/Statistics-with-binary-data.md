@@ -103,7 +103,7 @@ Dans le cas particulier d'une variable binaire : **H = - (p log p + (1-p) log (1
 
 
 # SOURCES
-
+- [https://blog.u-bourgogne.fr/licence-geographie/wp-content/uploads/sites/23/2015/06/seance_4.pdf](https://blog.u-bourgogne.fr/licence-geographie/wp-content/uploads/sites/23/2015/06/seance_4.pdf)
 - [https://murraylax.org/rtutorials/binprop.html](https://murraylax.org/rtutorials/binprop.html)
 - [https://stats.oarc.ucla.edu/wp-content/uploads/2016/02/p046.pdf](https://stats.oarc.ucla.edu/wp-content/uploads/2016/02 /p046.pdf)
 - [https://mylittleneuron.com/2021/01/12/traitement-des-donnees-incompletes-ou-imputation/](https://mylittleneuron.com/2021/01/12/traitement-des-donnees-incompletes-ou-imputation/)
