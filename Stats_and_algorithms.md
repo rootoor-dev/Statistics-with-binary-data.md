@@ -325,11 +325,6 @@ standard_deviation(person4)= pow(variance,2) = 0.24² = 0.0576
 standard_deviation(person5)= pow(variance,2) = 0.16² = 0.256
 standard_deviation(person6)= pow(variance,2) = 0² = 0
 
-
-
-sum
-
-
 ```
 NB : To estimate a **probability** of an event occurring, one can use standard statistical methods using a binary outcome variable.
 
