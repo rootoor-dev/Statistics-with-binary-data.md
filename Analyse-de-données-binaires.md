@@ -54,8 +54,8 @@ proportion (personne5) = moyenne (%) = 0,8 ~ 80%
 proportion(personne6)=moyenne(%) = 1.0 ~ 100%
 
 
-mode(personne1)= max(N(x=0),N(x=1)) = max(4,5) = 5
-mode(personne2)= max(N(x=0),N(x=1)) = max(4,5) = 5
+mode(personne1)= max(N(x=0),N(x=1)) = max(4,1) = 4
+mode(personne2)= max(N(x=0),N(x=1)) = max(4,1) = 4
 mode(personne3)= max(N(x=0),N(x=1)) = max(3,2) = 3
 mode(personne4)= max(N(x=0),N(x=1)) = max(2,3) = 3
 mode(personne5)= max(N(x=0),N(x=1)) = max(1,4) = 4
