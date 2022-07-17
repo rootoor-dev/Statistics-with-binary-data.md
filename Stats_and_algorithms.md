@@ -145,7 +145,12 @@ Le théorème central limite (TCL) garantit que la moyenne estimée *xbar* est �
 
 - **P(E(X) ε [*Xbar-(Qα.σ/√n) ; Xbar-(Qα.σ/√n)*]) = 1-α**
 
-**ICα** permet d'établir la **marge d'erreur** entre les données d'un sondage (échantillon) et les données de la population totale :    **ICα=x̅ ± Za/2*σ/√(n)***
+**ICα** permet d'établir la **marge d'erreur** entre les données d'un sondage (échantillon) et les données de la population totale :   
+
+```markdown
+***ICα=x̅ ± Za/2*σ/√(n)***
+```
+
 - marge d'erreur = Zα/2 x σ/√(n)
 - Zα/2 est le coefficient de confiance
 - α = degré de confiance
