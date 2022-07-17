@@ -30,54 +30,54 @@ S'obtient grâce à :
 # Definitions
 
 ## Mean
-• the arithmetic average of the values in a dataset
-• can be affected by extreme values since it uses the exact value of each data
-• more accurate measure of central tendency as it takes the individual scores into account
-• defined as the mathematical center of a distribution.(i.e., differences between scores and the mean).
-• Perfect balancing point because The sum of such different IS zero for any distribution
-• xbar of sample is the best unbiased estimator of the population mean (µ).
-• can be influenced by extremely large or extremely small values (outliers)
-• Specifically, extremely small values pull the mean down and extremely large values pull the mean up
-• it is good to use the median as a measure of central tendency in skewed distribution
+- the arithmetic average of the values in a dataset
+- can be affected by extreme values since it uses the exact value of each data
+- more accurate measure of central tendency as it takes the individual scores into account
+- defined as the mathematical center of a distribution.(i.e., differences between scores and the mean).
+- Perfect balancing point because The sum of such different IS zero for any distribution
+- xbar of sample is the best unbiased estimator of the population mean (µ).
+- can be influenced by extremely large or extremely small values (outliers)
+- Specifically, extremely small values pull the mean down and extremely large values pull the mean up
+- it is good to use the median as a measure of central tendency in skewed distribution
 
 ## Variance
-• moyenne arithmétique des carrés des écarts à la moyenne arithmétique observée
-• the average of the squared differences from the "mean". This is also called measure of variability.
-• measure of variability that takes into account both the variation of the scores and number of scores in a
+- moyenne arithmétique des carrés des écarts à la moyenne arithmétique observée
+- the average of the squared differences from the "mean". This is also called measure of variability.
+- measure of variability that takes into account both the variation of the scores and number of scores in a
 distribution
-• useful for comparing two (or more) means
-• Measures the average variability among scores in a distribution.
-• if small, data are close to the mean and spread out if big.
-• for population (observed variance), use ***n*** and for sample (corrected variance, variance unbiased) use ***n-1*** in the formula
+- useful for comparing two (or more) means
+- Measures the average variability among scores in a distribution.
+- if small, data are close to the mean and spread out if big.
+- for population (observed variance), use ***n*** and for sample (corrected variance, variance unbiased) use ***n-1*** in the formula
 
 ## Standard-deviation
-• measure of how spread out numbers of the serie(s) are. This is also called measure of variability.
-• same meaning as variance
-• useful to know the difference between values in a set or between two (or more) series of numbers.
-• useful for comparing two (or more) means.
-• if small, data are close to the mean and spread out if big.
-• for population, use ***n*** and for sample use ***n*** in the formula
+- measure of how spread out numbers of the serie(s) are. This is also called measure of variability.
+- same meaning as variance
+- useful to know the difference between values in a set or between two (or more) series of numbers.
+- useful for comparing two (or more) means.
+- if small, data are close to the mean and spread out if big.
+- for population, use ***n*** and for sample use ***n*** in the formula
 
 ## Median
-•  the middle number or value of an ordered (sorted) array of numbers (sorted from the smallest to the biggest).
-•  If there are an odd number of data points, the median will be the number in the absolute middle.
-•  If there is an even number of data points, the median is the mean of the two center data
+-  the middle number or value of an ordered (sorted) array of numbers (sorted from the smallest to the biggest).
+-  If there are an odd number of data points, the median will be the number in the absolute middle.
+-  If there is an even number of data points, the median is the mean of the two center data
 points, meaning the two center values should be added together and divided by 2.
-•  does not take into account the actual values of the scores in a set of data
-•  Better measure of central tendency than the mode since it balances perfectly distribution.
-•  Better measure of central tendency when data sets are incomplete or data are severely skewed.
+-  does not take into account the actual values of the scores in a set of data
+-  Better measure of central tendency than the mode since it balances perfectly distribution.
+-  Better measure of central tendency when data sets are incomplete or data are severely skewed.
 
 
 ## Mode
-• the most frequently occurring score. Sometimes there is no mode, two modes, or more than 2 modes
-• Sometimes there is no mode, two modes, or more than 2 modes
-• used to know the most common value in a distribution.
+- the most frequently occurring score. Sometimes there is no mode, two modes, or more than 2 modes
+- Sometimes there is no mode, two modes, or more than 2 modes
+- used to know the most common value in a distribution.
 
 ## Range
-• The highest value or data point minus the lowest value
-• provides information about the area a distribution covers, BUT does not say anything about individual values.
-• On dit d'un phénomène qu'il présente une « forte dynamique » lorsque l'étendue (ou la dispersion) est grande.
-• 
+- The highest value or data point minus the lowest value
+- provides information about the area a distribution covers, BUT does not say anything about individual values.
+- On dit d'un phénomène qu'il présente une « forte dynamique » lorsque l'étendue (ou la dispersion) est grande.
+- 
 
 
 ## Extremes values or outliers
@@ -86,21 +86,21 @@ Extremely small or extremely large values in a distribution.
 
 
 ## Absolute Deviation
-• We compare all of the values to some sort of measure of central tendency (usually the mean). So we can see how the data as a whole differs or deviates from the mean.
+- We compare all of the values to some sort of measure of central tendency (usually the mean). So we can see how the data as a whole differs or deviates from the mean.
 
 ## Sum of squares
-• somme des carrés des écarts à la moyenne  
-• squared of sum of Xi minus mean [SUM(Xi-mean)]² 
-• measures the total variation among scores in a distribution;
-• does not measure average variability
-• could be equal to zero if there is no variability and all the scores are equal
-• Can’t be negative (mathematically impossible)
+- somme des carrés des écarts à la moyenne  
+- squared of sum of Xi minus mean [SUM(Xi-mean)]² 
+- measures the total variation among scores in a distribution;
+- does not measure average variability
+- could be equal to zero if there is no variability and all the scores are equal
+- Can’t be negative (mathematically impossible)
 
 ## Skewness
-• to know how data are skewed
-• indicates the presence or the absence of extremes values (outliers) in a dataset 
-• ***negatively skewed*** = presence of some small extremes.
-• ***positively skewed*** = presence of some large extremes.  
+- to know how data are skewed
+- indicates the presence or the absence of extremes values (outliers) in a dataset 
+- ***negatively skewed*** = presence of some small extremes.
+- ***positively skewed*** = presence of some large extremes.  
 
 ## z-score
 Given by the formula : **z = (x − µ)/σ**
@@ -179,9 +179,9 @@ the following properties:
 
 The data for a normal distribution are spread according to the following rules :
 
-• About 68 percent of the data values will lie within one standard deviation of the mean.
-• About 95 percent of the data values will lie within two standard deviations of the mean.
-• About 99.7 percent of the data values will lie within three standard deviations of the mean.
+- About 68 percent of the data values will lie within one standard deviation of the mean.
+- About 95 percent of the data values will lie within two standard deviations of the mean.
+- About 99.7 percent of the data values will lie within three standard deviations of the mean.
 
 This result is sometimes referred to as the emperical rule, because the given percentages are observed in practice.
 
